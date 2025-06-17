@@ -1,11 +1,11 @@
 #  💻  Álvaro Santos
 
-Bem-vindo(a) ao meu perfil GitHub! Aqui compartilho meus projetos, estudos e contribuições. Sinta-se à vontade para explorar meu trabalho.
+Bem-vindo(a) ao meu perfil GitHub! Sou estudante de Ciência da Computação na UFPB, com grande interesse em desenvolvimento de software. Tenho me aprofundado em Java, buscando escrever código limpo, eficiente e escalável. Gosto de enfrentar desafios que estimulem o raciocínio lógico e me ajudem a crescer como desenvolvedor.
 
 ## 🌐 Redes Sociais
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](...)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](...)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alvaro_santos53/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-santos-966782349/)
 
 
 ## 📊 GitHub Stats
