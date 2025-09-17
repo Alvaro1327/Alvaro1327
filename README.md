@@ -37,4 +37,4 @@ Bem-vindo(a) ao meu perfil GitHub! Sou estudante de Ciência da Computação na 
 - ...
 
 ## 🛠 Habilidades
- - Java e python.
+ - Java, Python, JavaScript, Html e CSS
