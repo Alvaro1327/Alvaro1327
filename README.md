@@ -27,9 +27,13 @@ Bem-vindo(a) ao meu perfil GitHub! Sou estudante de Ciência da Computação na 
   </a>
 </div>
 
-## 🪪 Sobre mim
+## 💡 Sobre mim
 
-- ...
+- Sou Álvaro Santos, um estudante dedicado da área de tecnologia, focado em transformar o conhecimento teórico em soluções práticas e inovadoras de software.
+
+Possuo experiência e prática sólida no desenvolvimento, atuando com proficiência tanto no Front-end — utilizando HTML, CSS e JavaScript (JS) para criar interfaces de usuário dinâmicas e de alta qualidade — quanto no Back-end, onde me especializo em Java para a construção de sistemas robustos, eficientes e escaláveis.
+
+Mantenho um compromisso constante com o aprimoramento das minhas habilidades técnicas nessas áreas, sempre buscando a excelência em três pilares fundamentais: qualidade do código, clareza na documentação e arquitetura, e colaboração eficaz em equipe. Estou sempre pronto para encarar novos desafios que impulsionem meu crescimento profissional.
 
 ## 🛠 Habilidades
  - Java, Python, JavaScript, Html e CSS
