@@ -36,4 +36,11 @@ Possuo experiência e prática sólida no desenvolvimento, atuando com proficiê
 Mantenho um compromisso constante com o aprimoramento das minhas habilidades técnicas nessas áreas, sempre buscando a excelência em três pilares fundamentais: qualidade do código, clareza na documentação e arquitetura, e colaboração eficaz em equipe. Estou sempre pronto para encarar novos desafios que impulsionem meu crescimento profissional.
 
 ## 🛠 Habilidades
- - Java, Python, JavaScript, Html e CSS
+- Back-end: Java, Lógica de Programação Orientada a Objetos (POO).
+
+- Front-end: HTML, CSS, JavaScript (JS).
+
+- Controle de Versão: Git e GitHub.
+
+- Outras Linguagens: Python.
+
